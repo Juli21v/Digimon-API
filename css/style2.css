@@ -1,0 +1,35 @@
+body{
+    background-image: radial-gradient(circle at 9.44% -7.92%, #ffffeb 0, #ffffe7 4.55%, #ffffe2 9.09%, #ffffdd 13.64%, #ffffd8 18.18%, #ffffd2 22.73%, #ffffcc 27.27%, #fdffc7 31.82%, #eefec1 36.36%, #ddfbbc 40.91%, #caf7b8 45.45%, #b5f2b5 50%, #9eedb4 54.55%, #85e9b5 59.09%, #6ae4b9 63.64%, #4ae0bf 68.18%, #0addc6 72.73%, #00dacf 77.27%, #00d6d9 81.82%, #00d4e3 86.36%, #00d1ee 90.91%, #00cff8 95.45%, #00ccff 100%);
+}
+.nav-link {
+    background-color: rgb(50, 9, 77);
+    border-style: groove;
+    border-radius: 8px;
+    border-color: rgb(20, 220, 137);
+    margin-left: 6px;
+  }
+  .nav-link:hover {
+    background-color: lightpink;
+  }
+  .caralogin{
+  position: relative;
+  left: 550px;
+  }
+  .iconodetails {
+      width: 100px;
+      margin: auto;
+      text-align: center;
+      color: papayawhip;
+    }
+    #loginuser{
+      color: rgb(184, 244, 248);
+      position: relative;
+      bottom: 10px;
+      font-size: 20px;
+      font-weight: 700;
+      font-family: 'Permanent Marker', cursive;
+      padding: 1px;
+  }
+    #loginuser:hover{
+     color: rgb(184, 244, 248);
+    }

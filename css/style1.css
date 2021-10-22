@@ -1,0 +1,134 @@
+body {
+  background-image: radial-gradient(
+    circle at -4.17% 4.55%,
+    #a5ded5 0,
+    #a2deda 3.33%,
+    #a1dedf 6.67%,
+    #a0dde4 10%,
+    #a1dde9 13.33%,
+    #a3dced 16.67%,
+    #a5dbf0 20%,
+    #a9daf3 23.33%,
+    #aed9f6 26.67%,
+    #b3d7f7 30%,
+    #b9d6f8 33.33%,
+    #c0d4f8 36.67%,
+    #c6d2f8 40%,
+    #cdd0f7 43.33%,
+    #d4cff5 46.67%,
+    #dacdf2 50%,
+    #e0cbef 53.33%,
+    #e6caeb 56.67%,
+    #ebc9e7 60%,
+    #efc7e2 63.33%,
+    #f3c7dd 66.67%,
+    #f6c6d8 70%,
+    #f8c6d3 73.33%,
+    #fac6ce 76.67%,
+    #fbc6c9 80%,
+    #fbc6c4 83.33%,
+    #fac7bf 86.67%,
+    #f8c8bb 90%,
+    #f6c9b7 93.33%,
+    #f3cbb4 96.67%,
+    #f0ccb1 100%
+  );
+}
+.nav-link {
+  background-color: rgb(50, 9, 77);
+  border-style: groove;
+  border-radius: 8px;
+  border-color: rgb(20, 220, 137);
+  margin-left: 6px;
+}
+.nav-link:hover {
+  background-color: lightpink;
+}
+.caralogin{
+position: relative;
+left: 550px;
+}
+.iconodetails {
+    width: 100px;
+    margin: auto;
+    text-align: center;
+    color: papayawhip;
+  }
+  #loginuser{
+    color: rgb(184, 244, 248);
+    position: relative;
+    bottom: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Permanent Marker', cursive;
+    padding: 1px;
+}
+  #loginuser:hover{
+   color: rgb(184, 244, 248);
+  }
+.containerimg {
+    display: flex;
+    justify-content: center;
+}
+.containerimg img{
+    width: 700px;
+    height: 500px;
+}
+.textcont{
+    display: flex;
+    flex-wrap: wrap;
+}
+.texto{
+    text-align: justify;
+    background-color: rgb(50, 9, 77);
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    color: rgb(184, 244, 248);
+    padding: 10px;
+}
+.imgtext img{
+ margin-left: 40px;
+ width: 300px;
+ height: 300px;
+ border-radius: 8px;
+ -webkit-border-radius: 8px;
+ -moz-border-radius: 8px;
+ -ms-border-radius: 8px;
+ -o-border-radius: 8px;
+}
+.tittle1{
+    text-align: center;
+    background-color: rgb(50, 9, 77);
+    color: rgb(184, 244, 248);
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+  margin-top: 50px;
+}
+.carousel-item img {
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    width: auto;
+    margin: 0 auto;
+}
+.carousel-item h5{
+  color: rgb(50, 4, 68);
+  background-color: rgb(145, 233, 206);
+}
+.carousel-item p{
+    color: rgb(50, 4, 68);
+    background-color: rgb(145, 233, 206);
+}
+.carousel-item{
+    background-color: rgb(145, 233, 206);
+    margin-top: 20px;
+}
+footer{
+    margin-top: 20px;
+}

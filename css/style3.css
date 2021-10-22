@@ -1,0 +1,65 @@
+body{
+    background-image: radial-gradient(circle at 25.82% -16.45%, #009bab 0, #009cc2 3.33%, #009cd8 6.67%, #009bec 10%, #009afe 13.33%, #0098ff 16.67%, #0096ff 20%, #0092ff 23.33%, #008eff 26.67%, #0088ff 30%, #0081ff 33.33%, #0078ff 36.67%, #006dff 40%, #6360ff 43.33%, #9350ff 46.67%, #b53cf2 50%, #cf1ddf 53.33%, #e300ca 56.67%, #f200b4 60%, #fe009d 63.33%, #ff0086 66.67%, #ff0070 70%, #ff0059 73.33%, #ff0043 76.67%, #ff002c 80%, #f80010 83.33%, #ee2500 86.67%, #e23e00 90%, #d44f00 93.33%, #c45d00 96.67%, #b46900 100%);
+}
+.nav-link {
+    background-color: rgb(50, 9, 77);
+    border-style: groove;
+    border-radius: 8px;
+    border-color: rgb(20, 220, 137);
+    margin-left: 6px;
+  }
+  .nav-link:hover {
+    background-color: lightpink;
+  }
+  .caralogin{
+  position: relative;
+  left: 550px;
+  }
+  .iconodetails {
+      width: 100px;
+      margin: auto;
+      text-align: center;
+      color: papayawhip;
+    }
+    #loginuser{
+      color: rgb(184, 244, 248);
+      position: relative;
+      bottom: 10px;
+      font-size: 20px;
+      font-weight: 700;
+      font-family: 'Permanent Marker', cursive;
+      padding: 1px;
+  }
+    #loginuser:hover{
+     color: rgb(184, 244, 248);
+    }
+    .tittle2{
+        text-align: center;
+        color: rgb(184, 244, 248);
+        margin-top: 20px;
+        background-color: rgb(50, 9, 77);
+        border-radius: 8px;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        -ms-border-radius: 8px;
+        -o-border-radius: 8px;
+        padding: 10px;
+}
+    .row iframe{
+        border-radius: 8px;
+        width: 400px;
+        height: 400px;
+        margin:0;
+        margin-top: 20px;
+        padding-left: 30px;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        -ms-border-radius: 8px;
+        -o-border-radius: 8px;
+}
+    .row{
+        width: 100%;
+    }
+    footer{
+        margin-top: 20px;
+    }
